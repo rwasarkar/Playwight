@@ -1,0 +1,7 @@
+let age = 28
+let voter=age > 18? "is voter" : "no voter" 
+console.log("result:",voter)
+
+// ***************************************
+
+let temp = 35
